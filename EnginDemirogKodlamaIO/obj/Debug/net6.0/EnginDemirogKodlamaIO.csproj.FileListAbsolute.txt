@@ -1,0 +1,15 @@
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/EnginDemirogKodlamaIO/bin/Debug/net6.0/EnginDemirogKodlamaIO
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/EnginDemirogKodlamaIO/bin/Debug/net6.0/EnginDemirogKodlamaIO.deps.json
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/EnginDemirogKodlamaIO/bin/Debug/net6.0/EnginDemirogKodlamaIO.runtimeconfig.json
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/EnginDemirogKodlamaIO/bin/Debug/net6.0/EnginDemirogKodlamaIO.dll
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/EnginDemirogKodlamaIO/bin/Debug/net6.0/ref/EnginDemirogKodlamaIO.dll
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/EnginDemirogKodlamaIO/bin/Debug/net6.0/EnginDemirogKodlamaIO.pdb
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/EnginDemirogKodlamaIO/obj/Debug/net6.0/EnginDemirogKodlamaIO.csproj.AssemblyReference.cache
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/EnginDemirogKodlamaIO/obj/Debug/net6.0/EnginDemirogKodlamaIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/EnginDemirogKodlamaIO/obj/Debug/net6.0/EnginDemirogKodlamaIO.AssemblyInfoInputs.cache
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/EnginDemirogKodlamaIO/obj/Debug/net6.0/EnginDemirogKodlamaIO.AssemblyInfo.cs
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/EnginDemirogKodlamaIO/obj/Debug/net6.0/EnginDemirogKodlamaIO.csproj.CoreCompileInputs.cache
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/EnginDemirogKodlamaIO/obj/Debug/net6.0/EnginDemirogKodlamaIO.dll
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/EnginDemirogKodlamaIO/obj/Debug/net6.0/ref/EnginDemirogKodlamaIO.dll
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/EnginDemirogKodlamaIO/obj/Debug/net6.0/EnginDemirogKodlamaIO.pdb
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/EnginDemirogKodlamaIO/obj/Debug/net6.0/EnginDemirogKodlamaIO.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/BankProjectHomework/bin/Debug/net6.0/BankProjectHomework
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/BankProjectHomework/bin/Debug/net6.0/BankProjectHomework.deps.json
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/BankProjectHomework/bin/Debug/net6.0/BankProjectHomework.runtimeconfig.json
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/BankProjectHomework/bin/Debug/net6.0/BankProjectHomework.dll
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/BankProjectHomework/bin/Debug/net6.0/ref/BankProjectHomework.dll
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/BankProjectHomework/bin/Debug/net6.0/BankProjectHomework.pdb
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/BankProjectHomework/obj/Debug/net6.0/BankProjectHomework.csproj.AssemblyReference.cache
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/BankProjectHomework/obj/Debug/net6.0/BankProjectHomework.GeneratedMSBuildEditorConfig.editorconfig
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/BankProjectHomework/obj/Debug/net6.0/BankProjectHomework.AssemblyInfoInputs.cache
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/BankProjectHomework/obj/Debug/net6.0/BankProjectHomework.AssemblyInfo.cs
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/BankProjectHomework/obj/Debug/net6.0/BankProjectHomework.csproj.CoreCompileInputs.cache
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/BankProjectHomework/obj/Debug/net6.0/BankProjectHomework.dll
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/BankProjectHomework/obj/Debug/net6.0/ref/BankProjectHomework.dll
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/BankProjectHomework/obj/Debug/net6.0/BankProjectHomework.pdb
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/BankProjectHomework/obj/Debug/net6.0/BankProjectHomework.genruntimeconfig.cache

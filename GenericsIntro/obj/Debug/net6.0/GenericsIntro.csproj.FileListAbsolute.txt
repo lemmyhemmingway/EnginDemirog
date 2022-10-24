@@ -1,0 +1,15 @@
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/GenericsIntro/bin/Debug/net6.0/GenericsIntro
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/GenericsIntro/bin/Debug/net6.0/GenericsIntro.deps.json
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/GenericsIntro/bin/Debug/net6.0/GenericsIntro.runtimeconfig.json
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/GenericsIntro/bin/Debug/net6.0/GenericsIntro.dll
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/GenericsIntro/bin/Debug/net6.0/ref/GenericsIntro.dll
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/GenericsIntro/bin/Debug/net6.0/GenericsIntro.pdb
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/GenericsIntro/obj/Debug/net6.0/GenericsIntro.csproj.AssemblyReference.cache
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/GenericsIntro/obj/Debug/net6.0/GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/GenericsIntro/obj/Debug/net6.0/GenericsIntro.AssemblyInfoInputs.cache
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/GenericsIntro/obj/Debug/net6.0/GenericsIntro.AssemblyInfo.cs
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/GenericsIntro/obj/Debug/net6.0/GenericsIntro.csproj.CoreCompileInputs.cache
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/GenericsIntro/obj/Debug/net6.0/GenericsIntro.dll
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/GenericsIntro/obj/Debug/net6.0/ref/GenericsIntro.dll
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/GenericsIntro/obj/Debug/net6.0/GenericsIntro.pdb
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/GenericsIntro/obj/Debug/net6.0/GenericsIntro.genruntimeconfig.cache

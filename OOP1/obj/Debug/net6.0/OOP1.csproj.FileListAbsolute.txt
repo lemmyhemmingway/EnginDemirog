@@ -1,0 +1,15 @@
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/OOP1/bin/Debug/net6.0/OOP1
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/OOP1/bin/Debug/net6.0/OOP1.deps.json
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/OOP1/bin/Debug/net6.0/OOP1.runtimeconfig.json
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/OOP1/bin/Debug/net6.0/OOP1.dll
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/OOP1/bin/Debug/net6.0/ref/OOP1.dll
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/OOP1/bin/Debug/net6.0/OOP1.pdb
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/OOP1/obj/Debug/net6.0/OOP1.csproj.AssemblyReference.cache
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/OOP1/obj/Debug/net6.0/OOP1.GeneratedMSBuildEditorConfig.editorconfig
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/OOP1/obj/Debug/net6.0/OOP1.AssemblyInfoInputs.cache
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/OOP1/obj/Debug/net6.0/OOP1.AssemblyInfo.cs
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/OOP1/obj/Debug/net6.0/OOP1.csproj.CoreCompileInputs.cache
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/OOP1/obj/Debug/net6.0/OOP1.dll
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/OOP1/obj/Debug/net6.0/ref/OOP1.dll
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/OOP1/obj/Debug/net6.0/OOP1.pdb
+/home/yasin/RiderProjects/EnginDemirogKodlamaIO/OOP1/obj/Debug/net6.0/OOP1.genruntimeconfig.cache
