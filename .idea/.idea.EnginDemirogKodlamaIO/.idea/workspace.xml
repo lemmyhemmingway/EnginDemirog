@@ -6,9 +6,26 @@
     <projectFile>GenericsIntro/GenericsIntro.csproj</projectFile>
     <projectFile>Methods/Methods.csproj</projectFile>
     <projectFile>OOP1/OOP1.csproj</projectFile>
+    <projectFile>OOP2/OOP2.csproj</projectFile>
+    <projectFile>OOP3/OOP3.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="988e1102-09a1-4c1e-aa0b-03778ba7815b" name="Changes" comment="" />
+    <list default="true" id="988e1102-09a1-4c1e-aa0b-03778ba7815b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP2/CorporateCustomer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP2/Customer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP2/CustomerManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP2/IndividualCustomer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP3/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP3/ApplicationManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP3/CarLoanManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP3/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP3/HomeLoanManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP3/LoanManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP3/RequirementLoan.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EnginDemirogKodlamaIO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnginDemirogKodlamaIO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnginDemirogKodlamaIO.sln" beforeDir="false" afterPath="$PROJECT_DIR$/EnginDemirogKodlamaIO.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP2/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,19 +38,21 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GXyjP7L50FbXr9eRCj92KOirYY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected=".NET Project.GenericsIntro">
+}]]></component>
+  <component name="RunManager" selected=".NET Project.OOP3">
     <configuration name="BankProjectHomework" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -142,6 +161,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="OOP3" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OOP3/OOP3.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -155,14 +192,26 @@
       <workItem from="1666550310109" duration="2051000" />
       <workItem from="1666587078160" duration="3065000" />
       <workItem from="1666595614899" duration="1282000" />
-      <workItem from="1666597068882" duration="7213000" />
+      <workItem from="1666597068882" duration="12426000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
