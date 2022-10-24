@@ -11,20 +11,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="988e1102-09a1-4c1e-aa0b-03778ba7815b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP2/CorporateCustomer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP2/Customer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP2/CustomerManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP2/IndividualCustomer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP3/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP3/ApplicationManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP3/CarLoanManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP3/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP3/HomeLoanManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP3/LoanManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP3/RequirementLoan.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP3/CompanyLoanManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP3/DatabaseLoggerService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP3/FileLoggerService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP3/ILoggerService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EnginDemirogKodlamaIO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnginDemirogKodlamaIO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnginDemirogKodlamaIO.sln" beforeDir="false" afterPath="$PROJECT_DIR$/EnginDemirogKodlamaIO.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP2/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP3/ApplicationManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP3/ApplicationManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP3/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP3/bin/Debug/net6.0/OOP3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP3/bin/Debug/net6.0/OOP3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP3/bin/Debug/net6.0/OOP3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOP3/bin/Debug/net6.0/OOP3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP3/bin/Debug/net6.0/ref/OOP3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP3/bin/Debug/net6.0/ref/OOP3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP3/obj/Debug/net6.0/OOP3.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOP3/obj/Debug/net6.0/OOP3.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP3/obj/Debug/net6.0/OOP3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP3/obj/Debug/net6.0/OOP3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP3/obj/Debug/net6.0/OOP3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOP3/obj/Debug/net6.0/OOP3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP3/obj/Debug/net6.0/ref/OOP3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP3/obj/Debug/net6.0/ref/OOP3.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +192,7 @@
       <workItem from="1666550310109" duration="2051000" />
       <workItem from="1666587078160" duration="3065000" />
       <workItem from="1666595614899" duration="1282000" />
-      <workItem from="1666597068882" duration="12426000" />
+      <workItem from="1666597068882" duration="15276000" />
     </task>
     <servers />
   </component>
